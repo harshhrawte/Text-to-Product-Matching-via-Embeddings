@@ -1,6 +1,6 @@
 # 🛍️ Text to Product Matching via Embeddings
 
-A neural semantic search system leveraging transformer-based sentence embeddings for fashion product retrieval. Implements a hybrid ranking mechanism combining dense vector similarity with lexical feature overlap for robust query-product alignment.
+A semantic search system leveraging transformer-based sentence embeddings for fashion product retrieval. Implements a hybrid ranking mechanism combining dense vector similarity with lexical feature overlap for robust query-product alignment.
 
 ## ✨ Features
 
